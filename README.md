@@ -19,3 +19,4 @@ Accumulator[R][x][y]+=1
 Step 5: To normalize values perform, Accumulator=Accumulator/MAX(Accumulator)
 
 Step 6: Construct circles for every R,x,y if the threshold is above a certain value. 
+![alt text](https://github.com/sajjadtaghilou/CalculationOfTheNumberOfBottlesInACrate/blob/master/Annotation%202020-06-26%20003002.png)
