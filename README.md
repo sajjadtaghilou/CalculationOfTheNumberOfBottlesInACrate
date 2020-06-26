@@ -1,4 +1,4 @@
-# CalculationOfTheNumberOfBottlesInACrate
+# Calculation Of The Number Of Bottles In A Crate
 Calculation of the number of bottles in a crate (Machine Vision) open CV
 The algorithm used to implement Hough Circles is as follows:
 
